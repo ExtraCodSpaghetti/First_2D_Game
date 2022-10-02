@@ -1,0 +1,14 @@
+F:\C#_all\files\2D_LastDay\bin\Debug\2D_LastDay.exe.config
+F:\C#_all\files\2D_LastDay\bin\Debug\2D_LastDay.exe
+F:\C#_all\files\2D_LastDay\bin\Debug\2D_LastDay.pdb
+F:\C#_all\files\2D_LastDay\obj\Debug\2D_LastDay.csproj.AssemblyReference.cache
+F:\C#_all\files\2D_LastDay\obj\Debug\2D_LastDay.csproj.SuggestedBindingRedirects.cache
+F:\C#_all\files\2D_LastDay\obj\Debug\_2D_LastDay.Form1.resources
+F:\C#_all\files\2D_LastDay\obj\Debug\_2D_LastDay.Properties.Resources.resources
+F:\C#_all\files\2D_LastDay\obj\Debug\2D_LastDay.csproj.GenerateResource.cache
+F:\C#_all\files\2D_LastDay\obj\Debug\2D_LastDay.csproj.CoreCompileInputs.cache
+F:\C#_all\files\2D_LastDay\obj\Debug\2D_LastDay.exe
+F:\C#_all\files\2D_LastDay\obj\Debug\2D_LastDay.pdb
+F:\C#_all\files\2D_LastDay\obj\Debug\Interop.MediaPlayer.dll
+F:\C#_all\files\2D_LastDay\obj\Debug\Interop.WMPLib.dll
+F:\C#_all\files\2D_LastDay\obj\Debug\2D_LastDay.csproj.ResolveComReference.cache

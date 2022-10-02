@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_LastDay", "2D_LastDay.csproj", "{FCDD8F52-BA61-49E3-80CF-CA3EFADB026F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "2D_SaveLastTree", "..\2D_SaveLastTree\2D_SaveLastTree.vdproj", "{19A655D6-911B-47BD-9C10-3FD6B93F2062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDD8F52-BA61-49E3-80CF-CA3EFADB026F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDD8F52-BA61-49E3-80CF-CA3EFADB026F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDD8F52-BA61-49E3-80CF-CA3EFADB026F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDD8F52-BA61-49E3-80CF-CA3EFADB026F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A655D6-911B-47BD-9C10-3FD6B93F2062}.Debug|Any CPU.ActiveCfg = Debug
+		{19A655D6-911B-47BD-9C10-3FD6B93F2062}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26753C22-B3E8-4E14-B089-D88D9353C01C}
+	EndGlobalSection
+EndGlobal
